@@ -1,1 +1,2 @@
-# 9magnesiumcs3
+Ethan David P. Solano
+9-Magnesium
