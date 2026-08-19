@@ -45,4 +45,3 @@ ELSE
 END IF
 
 END
-The cashier manually calculates the total cost and gives change
