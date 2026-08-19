@@ -7,3 +7,5 @@
 # Quarter 1
 
 * [View my Computational Thinking Exercise](q1/ctskillsMagnesiumSolano.md)
+* [Chinese Zodiac Code](q1/zodiacMagnesiumSolano.py)
+* [Chinese Zodiac Documentation](q1/zodiacMagnesiumSolano.md)
