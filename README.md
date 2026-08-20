@@ -9,3 +9,4 @@
 * [View my Computational Thinking Exercise](q1/ctskillsMagnesiumSolano.md)
 * [Chinese Zodiac Code](q1/zodiacMagnesiumSolano.py)
 * [Chinese Zodiac Documentation](q1/zodiacMagnesiumSolano.md)
+* [ILA 3-1: Applying the Four Pillars of OOP](q1/ila_oop.md)
