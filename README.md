@@ -11,3 +11,5 @@
 * [Chinese Zodiac Documentation](q1/zodiacMagnesiumSolano.md)
 * [ILA 3-1: Applying the Four Pillars of OOP](q1/ila_oop.md)
 * [OOPAct](q1/classObjectUML.md)
+* [Class Attributes and Methods](q1/classAttributesMethods.md)
+* [Class Implementation](q1/classImplementation.py)
