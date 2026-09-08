@@ -3,14 +3,14 @@
 Link to my previous activity:
 [classObjectUML.md](classObjectUML.md)
 ## Design Revision
-Describe any changes made to your original class.
+There were no revisions needed from my previous activity.
 ## Visibility Decisions
 | Attribute | Data Type | Visibility | Reason |
 |---|---|---|---|
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+|Name| | | |
+|level | | | |
+|health | | | |
+|isAzureDragoon| | | |
 ## Updated UML Class Diagram
 ![Class Diagram](images/classDiagramSG5.png)
 ## Python Implementation
