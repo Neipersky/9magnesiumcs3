@@ -7,10 +7,10 @@ There were no revisions needed from my previous activity.
 ## Visibility Decisions
 | Attribute | Data Type | Visibility | Reason |
 |---|---|---|---|
-|Name| | | |
-|level | | | |
-|health | | | |
-|isAzureDragoon| | | |
+|Name|String|Public | |
+|level|Integer|Public| |
+|health|Integer|Private| |
+|isAzureDragoon|Boolean|Private| |
 ## Updated UML Class Diagram
 ![Class Diagram](images/classDiagramSG5.png)
 ## Python Implementation
