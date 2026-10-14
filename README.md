@@ -17,3 +17,7 @@
 * [Class Relationships Source](q1/classRelationships.py)
 * [Advanced Class Relationships](q1/advancedRelationships.md)
 * [Advanced Class Relationships Source](q1/advancedRelationships.py)
+
+# Quarter 2
+
+* [SG8 - Encapsulation](q2/sg8_encapsulation.py)
