@@ -1,4 +1,4 @@
-ass BankAccount:
+class BankAccount:
     def __init__(self, account_number: str, initial_balance: float = 0.0):
         self.__account_number = account_number
         self.__balance = initial_balance
