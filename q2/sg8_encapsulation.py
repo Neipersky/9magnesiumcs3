@@ -9,12 +9,12 @@ class BankAccount:
             self.__balance = balance
         else:
             print("The balance must be not be a negative number.")
-    @property
-    def account_number(self):
+
+def set_account_number(self, account_number: int):
+        self.__account_number = account_number
+    
+def get_account_number(self):
         return self.__account_number
-    @property
-    def balance(self):
-        return self.__balance
 if __name__ == "__main__":
     account_1 = BankAccount(12345, 1000)
     print("Account 1")
